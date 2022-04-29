@@ -180,7 +180,7 @@ p,li,td,th {
 
 /* merchandise section 4 */
 .merch {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   width: 85%;
   margin: 1em auto;
   overflow: auto;
@@ -188,7 +188,7 @@ p,li,td,th {
 }
 
 .section-header {
-  border: 2px solid yellow;
+  /* border: 2px solid yellow; */
 }
 
 .section-header span {
@@ -439,7 +439,7 @@ p,li,td,th {
 }
 
 .discount {
-  border: 4px solid red;
+  /* border: 4px solid red; */
   background-image: url(../image/discount-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -451,7 +451,7 @@ p,li,td,th {
 }
 
 .discount-text {
-  border: 4px solid yellow;
+  /* border: 4px solid yellow; */
   position: absolute;
   transform:translate(-50%,-50%);
   top: 50%;
@@ -526,7 +526,7 @@ p,li,td,th {
 }
 
 form {
-  border: 2px dashed green;
+  /* border: 2px dashed green; */
   margin-top: 2em;
   overflow: auto;
 }
